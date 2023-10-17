@@ -11,12 +11,7 @@
 <hr>
 
 
-![Nidhish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhish-create&theme=blue-green&show_icons=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhish-create&theme=blue-green&title_color=F16707&hide_border=true" width="335px" data-canonical->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nidhish-create&theme=blue-green)](https://git.io/streak-stats)
-<br>
-<img align="right" src="https://komarev.com/ghpvc/?username=your-github-nidhish-create&style=flat-square&color=232323">
-<hr>
+
 
 ### You can connect with me from _here_ 📧:
 
