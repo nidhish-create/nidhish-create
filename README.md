@@ -5,7 +5,7 @@
 🔭 Pre-final year undergraduate at VIT Bhopal University pursuing Computer Science and Engineering with specialization in AI & ML. \
 💻 5 ⭐ HACKERRANK \
 🌱 I’m currently learning Data science, Data analytics. \
-⚡ EX-INTERN @STARTUP AYU HEALTH. 
+⚡ FORMER-INTERN @STARTUP AYU HEALTH. 
 
 
 <hr>
